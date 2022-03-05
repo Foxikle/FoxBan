@@ -1,0 +1,12 @@
+name: FoxBan
+version: ${project.version}
+main: me.foxikle.myban.Myban
+api-version: 1.18
+prefix: FBAN
+authors: [ Foxikle ]
+description: this is my try at making a ban plugin.
+commands:
+  unban:
+    description: Use this command to unban (or pardon) a player's punishment.
+  ban:
+    description: Use this as a punishment command. This should require some high permitions.
